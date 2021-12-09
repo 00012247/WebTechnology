@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\assets"
+		},
+		{
+			"path": "..\\app"
+		},
+		{
+			"path": "..\\first portfolio"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "webassets"
+	}
+}
